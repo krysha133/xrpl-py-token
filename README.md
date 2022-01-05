@@ -7,4 +7,4 @@ Utilizing xrpl-py library to:
 - Transfer $zinc tokens between wallets
 
 All transactions and issued currencies can be viewed on [Bithomp](https://test.bithomp.com/) or [xrpl.org](https://testnet.xrpl.org/)
-![image info](images/bithomp_zinc)
+![image info](images/bithomp_zinc.png)
